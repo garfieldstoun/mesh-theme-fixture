@@ -1,0 +1,2 @@
+{"schema":1,"id":"fixture-slate","name":"Fixture Slate","version":"1.0.0","kind":"theme","runtime":"builtin","mesh_api":">=1 <2","publisher":"example","description":"Test theme for update checks","category":"appearance","tags":["fixture"],"levels":{"instance":true,"workspace":true,"project":false},"capabilities":{},
+ "theme":{"tokens_contract":"1","modes":["light"],"tokens":{"light":{"primary":"200 40% 30%"}}}}
